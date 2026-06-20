@@ -1,0 +1,6 @@
+PyQt6
+pymysql
+bcrypt
+python-docx
+
+cryptography
